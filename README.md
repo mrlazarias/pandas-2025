@@ -79,17 +79,21 @@ Este repositório contém todo o material e exercícios práticos para aprender 
 
 ```
 📦 pandas-2025/
-├── 📄 README.md              # Este arquivo
-├── 📁 data/                  # Datasets utilizados
+├── 📄 README.md                    # Este arquivo
+├── 📁 data/                        # Datasets utilizados
 │   ├── 📊 clientes.csv
 │   ├── 📊 produtos.csv
 │   ├── 📊 transacoes.csv
+│   ├── 📊 transacao_produto.csv
 │   └── 🗄️ database.db
-├── 📁 dia01/                 # Fundamentos do Pandas
-│   ├── 📄 README.md
-│   ├── 🐍 01_hello_pandas.py
-│   └── 🐍 02_series.py
-└── 📁 dia02/                 # (em desenvolvimento...)
+├── 📁 dia01/                       # Fundamentos do Pandas
+│   ├── 📄 README.md                # Guia completo do Dia 1
+│   ├── 🐍 01_hello_pandas.py       # Primeiro contato
+│   ├── 🐍 02_series.py             # Estatísticas com Series
+│   ├── 🐍 03_series_index.py.py    # Indexação e seleção
+│   └── 📁 dia01/                   # Continuação dos estudos
+│       └── 🐍 04_dataframes.py     # Introdução aos DataFrames
+└── 📁 dia02/                       # (próximo dia de estudo...)
     └── 📄 README.md
 ```
 
